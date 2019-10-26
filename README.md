@@ -1,0 +1,1 @@
+# adoptopenjdk-wait-for-it
